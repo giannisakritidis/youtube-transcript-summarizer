@@ -8,9 +8,6 @@ __pycache__/
 # Ignore logs
 *.log
 
-# Ignore Jupyter checkpoints (if any)
-.ipynb_checkpoints/
-
 # Ignore system files
 .DS_Store
 Thumbs.db

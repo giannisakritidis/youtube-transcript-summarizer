@@ -1,0 +1,12 @@
+# YouTube Transcript Summarizer LLM App
+
+This Streamlit app fetches transcripts from YouTube videos and summarizes them using Google Gemini.
+
+##  Features
+- Extracts transcript using `youtube_transcript_api`
+- Summarizes video using Gemini Pro
+- Streamlit interface to interact with the app
+
+##  How to Run Locally
+1. Clone this repo
+2. Install dependencies:
